@@ -1,5 +1,5 @@
-import { Header } from "./assets/components/Header"
-import { BalanceChecker } from "./assets/components/BalanceChecker"
+import { Header } from "./components/Header"
+import { BalanceChecker } from "./components/BalanceChecker"
 
 function App() {
 
